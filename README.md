@@ -5,3 +5,6 @@ AI for youth project
 repository 저장소
 commit 변경된 내용들을 하나로 묶어서 로컬저장소에 저장하는 의미
 ## Hello OpenVINO
+기본적으로 anaconda  가상환경을 이용했음.
+
+가상환경은 BrainAI 깃허브를 참고<https://github.com/birainai-hub/
